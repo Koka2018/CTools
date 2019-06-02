@@ -1,0 +1,331 @@
+[Workspace Header]
+Version = 1300
+Pathname = "/c/Users/dell755/Documents/CVI/Projects/CTools/CTools.cws"
+CVI Dir = "/c/program files/national instruments/cvi2013"
+CVI Shared Dir = "/C/Program Files/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2013"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "CTools.prj"
+Project 0001 Folder PCUnit Collapsed = True
+Project 0001 FolderId 0 Collapsed = True
+Drag Bar Left = 245
+Window Top = 31
+Window Left = 718
+Window Bottom = 383
+Window Right = 1359
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 8
+Window Confinement Region Enabled = True
+MainColumnWidth = 228
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1300
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Users/dell755/Documents/CVI/PCUnit/PCUnit/PCU_Libc.c"
+File Type = "CSource"
+Disk Date = 3641723695
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,41,36,323,542,1,0,"
+
+[File 0002]
+Path = "/c/Users/dell755/Documents/CVI/PCUnit/PCUnit/PCU_Libc.h"
+File Type = "Include"
+Disk Date = 3641723695
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0003]
+Path = "/c/Users/dell755/Documents/CVI/PCUnit/PCUnit/PCU_Suite.c"
+File Type = "CSource"
+Disk Date = 3641723695
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0004]
+Path = "/c/Users/dell755/Documents/CVI/PCUnit/PCUnit/PCU_Suite.h"
+File Type = "Include"
+Disk Date = 3641723695
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0005]
+Path = "/c/Users/dell755/Documents/CVI/PCUnit/PCUnit/PCU_Test.c"
+File Type = "CSource"
+Disk Date = 3642253735
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Source Window State = "1,152,154,152,0,0,0,0,0,0,0,0,0,0,0,0,95,0,117,4,323,542,1,0,"
+
+[File 0006]
+Path = "/c/Users/dell755/Documents/CVI/PCUnit/PCUnit/PCU_Test.h"
+File Type = "Include"
+Disk Date = 3641723695
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0007]
+Path = "/c/Users/dell755/Documents/CVI/PCUnit/PCUnit/PCUnit.c"
+File Type = "CSource"
+Disk Date = 3641723695
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0008]
+Path = "/c/Users/dell755/Documents/CVI/PCUnit/PCUnit/PCUnit.h"
+File Type = "Include"
+Disk Date = 3641723695
+In Projects = "1,"
+Window Top = 188
+Window Left = 90
+Source Window State = "1,256,256,256,8,36,36,0,0,0,0,0,0,0,0,0,232,0,257,16,323,542,1,0,"
+
+[File 0009]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/TestString.c"
+File Type = "CSource"
+Disk Date = 3642319816
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 7
+Source Window State = "1,340,346,340,0,0,0,0,0,60,0,28,0,0,0,25,0,0,0,0,349,422,1,41,"
+
+[File 0010]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/TestString.h"
+File Type = "Include"
+Disk Date = 3642319855
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 8
+Source Window State = "1,12,24,12,0,0,0,0,0,60,0,0,0,0,0,25,0,0,13,21,349,422,1,0,"
+
+[File 0011]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/TestIList.c"
+File Type = "CSource"
+Disk Date = 3642320067
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 6
+Source Window State = "1,22,24,22,0,0,0,0,0,80,0,0,0,0,0,23,0,0,0,0,323,542,1,0,"
+
+[File 0012]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/TestIList.h"
+File Type = "Include"
+Disk Date = 3642319948
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 5
+Source Window State = "1,11,23,11,0,0,0,0,0,80,0,0,0,0,0,23,0,0,11,0,323,542,1,0,"
+
+[File 0013]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/TestStringList.c"
+File Type = "CSource"
+Disk Date = 3642320067
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Window Z-Order = 4
+Source Window State = "1,22,24,22,0,0,0,0,0,80,0,0,0,0,0,23,0,0,22,0,323,542,1,0,"
+
+[File 0014]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/TestStringList.h"
+File Type = "Include"
+Disk Date = 3642320015
+In Projects = "1,"
+Window Top = 188
+Window Left = 90
+Window Z-Order = 3
+Source Window State = "1,11,23,11,0,0,0,0,0,80,0,0,0,0,0,23,0,0,11,0,323,542,1,0,"
+
+[File 0015]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/Main.c"
+File Type = "CSource"
+Disk Date = 3642320051
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 2
+Source Window State = "1,4,21,4,0,0,0,0,0,80,0,0,0,0,0,25,0,0,18,0,349,542,1,0,"
+
+[File 0016]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/Main.h"
+File Type = "Include"
+Disk Date = 3642320067
+In Projects = "1,"
+Window Z-Order = 1
+Source Window State = "1,12,24,12,0,0,0,0,0,164,0,0,0,0,0,36,0,0,8,58,400,600,0,0,"
+
+[File 0017]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/IListTool.c"
+File Type = "CSource"
+Disk Date = 3642310857
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Source Window State = "1,111,111,111,6,19,19,0,0,80,0,0,0,0,0,23,0,0,17,0,323,542,1,0,"
+
+[File 0018]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/StringListTool.c"
+File Type = "CSource"
+Disk Date = 3642310967
+In Projects = "1,"
+Window Top = 95
+Window Left = 42
+Source Window State = "1,16,17,16,0,0,0,0,0,80,0,34,0,0,0,23,4,0,16,0,323,542,1,72,"
+
+[File 0019]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/StringTool.c"
+File Type = "CSource"
+Disk Date = 3642310743
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Source Window State = "1,13,14,13,0,0,0,0,3,60,0,0,0,0,0,23,0,0,14,0,323,422,1,0,"
+
+[File 0020]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/IListTool.h"
+File Type = "Include"
+Disk Date = 3642310849
+In Projects = "1,"
+Window Top = 126
+Window Left = 58
+Source Window State = "1,20,23,20,0,0,0,0,0,80,0,0,0,0,0,23,19,0,51,0,323,542,1,0,"
+
+[File 0021]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/StringListTool.h"
+File Type = "Include"
+Disk Date = 3642310777
+In Projects = "1,"
+Window Top = 126
+Window Left = 58
+Source Window State = "1,20,24,20,0,0,0,0,0,80,0,0,0,0,0,23,0,0,20,0,323,542,1,0,"
+
+[File 0022]
+Path = "/c/Users/dell755/Documents/CVI/Projects/CTools/StringTool.h"
+File Type = "Include"
+Disk Date = 3642310743
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Source Window State = "1,20,23,20,0,0,0,0,0,60,0,30,0,0,0,23,0,0,20,0,323,422,1,20,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
